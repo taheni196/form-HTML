@@ -1,0 +1,46 @@
+.compt1{margin:10px 0;
+    display: flex;
+    justify-content: space-between
+}
+.compt1-1{
+    width: 550px
+}
+.compt2-1{
+    width: 100px;
+}
+.tou{display:flex;
+justify-content: space-around}
+.compt1-1,.compt2-1,.comp2,.comp3{
+    margin:10px 0;
+    display: flex;
+    flex-flow: column
+}
+#image{
+    width: 300px;
+}
+.part1{
+    width:35%;
+}
+.part2{
+    width:50%;
+}
+.ada{
+    color:white
+}
+body{
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(99, 177, 207)
+}
+.part1{
+    background-color: rgb(105, 228, 245);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 50px; 
+}
+.part2{
+    background-color: rgb(211, 235, 240);
+    padding-left: 100px;
+    padding-right: 50px;
+}
