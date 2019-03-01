@@ -29,7 +29,7 @@ justify-content: space-around}
 }
 body{
     margin: 0;
-    height: 100vh;
+    height: 100px;
     background-color: rgb(99, 177, 207)
 }
 .part1{
@@ -43,4 +43,15 @@ body{
     background-color: rgb(211, 235, 240);
     padding-left: 100px;
     padding-right: 50px;
+}
+#submit{
+    width: 650px;
+    height: 30px;
+    background: #00e1ff;
+
+    
+}
+#submit:hover{
+    color: white;
+    background: rgb(0, 174, 255);
 }
